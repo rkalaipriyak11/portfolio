@@ -1,0 +1,51 @@
+Name: KALAIPRIYA R
+Role: Full Stack Developer
+Location: Chennai, India
+Email: rkalaipriyak@gmail.com
+Phone: 8015493294
+GitHub: https://github.com/rkalaipriyak11
+LinkedIn: https://www.linkedin.com/in/rkalaipriya
+
+Professional Summary:
+Aspiring Full Stack Developer passionate about developing user-friendly web applications, solving real-world problems, and continuously learning modern technologies.
+
+Education:
+Bachelor of Engineering in Computer Science Engineering
+Velammal Engineering College | 2023 – 2027 | CGPA 8.14
+Higher Secondary Certificate | Sethu Bhaskara Matric Hr. Sec. School | 2022 – 2023 | 89%
+
+Technical Skills:
+Programming Languages: Java, Python, C
+Frontend: HTML5, CSS3, React.js
+Backend: Node.js, Express.js
+Databases: MongoDB, MySQL
+Libraries: NumPy, Pandas, Matplotlib
+Developer Tools: VS Code, GitHub, Cursor
+
+Projects:
+AI-Based Driver Drowsiness Detection System
+Real-time driver drowsiness detection using Python, OpenCV, and Dlib.
+
+Task Management Application
+Full Stack Task Management Application using React.js, Node.js, Express.js, and MongoDB.
+
+Internships:
+Web Development Intern – Codebind Technologies
+UI/UX Designing Intern – Virtual Tech Services Pvt. Ltd.
+Generative AI Intern – Altruisty Innovation Pvt. Ltd.
+
+Certifications:
+Artificial Intelligence Fundamentals
+IBM Cloud Computing
+Data Science & Analytics
+HP LIFE
+Machine Learning
+Generative AI
+AWS
+NPTEL – Deep Learning
+NPTEL – Natural Language Processing
+
+Achievements:
+Participated in Smart India Hackathon (SIH)
+Solved 100+ coding problems on LeetCode
+Solved 100+ coding problems on HackerRank
